@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/733639743a9c4a73873241dd5d006252/artifacts
+end_time: 1753398569124
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 733639743a9c4a73873241dd5d006252
+run_name: bald-hen-576
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753398569081
+status: 3
+tags: []
+user_id: pawan

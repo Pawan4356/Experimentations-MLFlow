@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/957127062445988614/27c015de2807437199538c339dc7aef3/artifacts
+end_time: 1753401623050
+entry_point_name: ''
+experiment_id: '957127062445988614'
+lifecycle_stage: active
+run_id: 27c015de2807437199538c339dc7aef3
+run_name: rogue-koi-392
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753401622122
+status: 3
+tags: []
+user_id: pawan

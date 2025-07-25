@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/690087386311439a905630d36e532c22/artifacts
+end_time: 1753399589683
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 690087386311439a905630d36e532c22
+run_name: classy-cat-215
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753399589094
+status: 3
+tags: []
+user_id: pawan

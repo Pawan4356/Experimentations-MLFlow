@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/09b24e6e112542cd80a574c67ab86701/artifacts
+end_time: 1753401434729
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 09b24e6e112542cd80a574c67ab86701
+run_name: classy-bee-921
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753401434086
+status: 3
+tags: []
+user_id: pawan

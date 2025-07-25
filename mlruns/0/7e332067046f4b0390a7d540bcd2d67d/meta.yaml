@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7e332067046f4b0390a7d540bcd2d67d/artifacts
+deleted_time: 1753398062113
+end_time: 1753397946860
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7e332067046f4b0390a7d540bcd2d67d
+run_name: popular-stork-722
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753397946376
+status: 4
+tags: []
+user_id: pawan

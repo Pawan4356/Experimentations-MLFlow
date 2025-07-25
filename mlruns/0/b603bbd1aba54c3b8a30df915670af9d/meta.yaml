@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b603bbd1aba54c3b8a30df915670af9d/artifacts
+end_time: 1753398633558
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b603bbd1aba54c3b8a30df915670af9d
+run_name: upset-shark-879
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753398633358
+status: 3
+tags: []
+user_id: pawan
