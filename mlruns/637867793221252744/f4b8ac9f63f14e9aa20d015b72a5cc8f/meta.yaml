@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOps/Experimentations-MLFlow/mlruns/637867793221252744/f4b8ac9f63f14e9aa20d015b72a5cc8f/artifacts
+end_time: 1753838190397
+entry_point_name: ''
+experiment_id: '637867793221252744'
+lifecycle_stage: active
+run_id: f4b8ac9f63f14e9aa20d015b72a5cc8f
+run_name: grandiose-lynx-932
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753838178267
+status: 3
+tags: []
+user_id: pawan

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOps/Experimentations-MLFlow/mlruns/637867793221252744/fbe79b4a4e9d45ec890ae84b4cc65ff2/artifacts
+end_time: 1753837704588
+entry_point_name: ''
+experiment_id: '637867793221252744'
+lifecycle_stage: active
+run_id: fbe79b4a4e9d45ec890ae84b4cc65ff2
+run_name: efficient-gnu-26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753837698290
+status: 4
+tags: []
+user_id: pawan

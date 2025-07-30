@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOps/Experimentations-MLFlow/mlruns/637867793221252744/1e217b5d7abb424c9d027bdd416e9314/artifacts
+end_time: 1753838725883
+entry_point_name: ''
+experiment_id: '637867793221252744'
+lifecycle_stage: active
+run_id: 1e217b5d7abb424c9d027bdd416e9314
+run_name: invincible-zebra-757
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753838725850
+status: 3
+tags: []
+user_id: pawan

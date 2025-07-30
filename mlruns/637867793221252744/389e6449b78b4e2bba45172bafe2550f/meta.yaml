@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOps/Experimentations-MLFlow/mlruns/637867793221252744/389e6449b78b4e2bba45172bafe2550f/artifacts
+end_time: 1753837768067
+entry_point_name: ''
+experiment_id: '637867793221252744'
+lifecycle_stage: active
+run_id: 389e6449b78b4e2bba45172bafe2550f
+run_name: illustrious-deer-565
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753837761564
+status: 4
+tags: []
+user_id: pawan

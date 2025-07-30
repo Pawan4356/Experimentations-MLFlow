@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOps/Experimentations-MLFlow/mlruns/637867793221252744/349d88d533aa42059c3e77e988d8e6e2/artifacts
+end_time: 1753838726164
+entry_point_name: ''
+experiment_id: '637867793221252744'
+lifecycle_stage: active
+run_id: 349d88d533aa42059c3e77e988d8e6e2
+run_name: glamorous-seal-673
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753838726130
+status: 3
+tags: []
+user_id: pawan

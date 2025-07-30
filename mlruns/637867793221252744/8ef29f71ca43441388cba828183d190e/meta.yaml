@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOps/Experimentations-MLFlow/mlruns/637867793221252744/8ef29f71ca43441388cba828183d190e/artifacts
+end_time: 1753837922308
+entry_point_name: ''
+experiment_id: '637867793221252744'
+lifecycle_stage: active
+run_id: 8ef29f71ca43441388cba828183d190e
+run_name: fortunate-hawk-653
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753837908001
+status: 3
+tags: []
+user_id: pawan

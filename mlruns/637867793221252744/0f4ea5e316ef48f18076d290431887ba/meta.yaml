@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOps/Experimentations-MLFlow/mlruns/637867793221252744/0f4ea5e316ef48f18076d290431887ba/artifacts
+end_time: 1753838730758
+entry_point_name: ''
+experiment_id: '637867793221252744'
+lifecycle_stage: active
+run_id: 0f4ea5e316ef48f18076d290431887ba
+run_name: gentle-rook-824
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753838718249
+status: 3
+tags: []
+user_id: pawan

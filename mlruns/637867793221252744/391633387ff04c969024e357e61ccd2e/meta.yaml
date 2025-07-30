@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOps/Experimentations-MLFlow/mlruns/637867793221252744/391633387ff04c969024e357e61ccd2e/artifacts
+end_time: 1753838726206
+entry_point_name: ''
+experiment_id: '637867793221252744'
+lifecycle_stage: active
+run_id: 391633387ff04c969024e357e61ccd2e
+run_name: kindly-mare-934
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753838726172
+status: 3
+tags: []
+user_id: pawan

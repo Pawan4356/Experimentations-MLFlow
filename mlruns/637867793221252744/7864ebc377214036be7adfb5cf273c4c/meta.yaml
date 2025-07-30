@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOps/Experimentations-MLFlow/mlruns/637867793221252744/7864ebc377214036be7adfb5cf273c4c/artifacts
+end_time: 1753838725801
+entry_point_name: ''
+experiment_id: '637867793221252744'
+lifecycle_stage: active
+run_id: 7864ebc377214036be7adfb5cf273c4c
+run_name: rare-doe-54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753838725641
+status: 3
+tags: []
+user_id: pawan

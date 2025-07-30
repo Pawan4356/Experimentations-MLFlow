@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOps/Experimentations-MLFlow/mlruns/637867793221252744/63bc8f03c9e545c0852f73dd5e67d15c/artifacts
+end_time: 1753838726007
+entry_point_name: ''
+experiment_id: '637867793221252744'
+lifecycle_stage: active
+run_id: 63bc8f03c9e545c0852f73dd5e67d15c
+run_name: handsome-cat-629
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753838725970
+status: 3
+tags: []
+user_id: pawan

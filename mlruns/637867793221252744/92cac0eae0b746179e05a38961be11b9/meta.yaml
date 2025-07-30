@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOps/Experimentations-MLFlow/mlruns/637867793221252744/92cac0eae0b746179e05a38961be11b9/artifacts
+end_time: 1753838725843
+entry_point_name: ''
+experiment_id: '637867793221252744'
+lifecycle_stage: active
+run_id: 92cac0eae0b746179e05a38961be11b9
+run_name: mysterious-pig-109
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753838725810
+status: 3
+tags: []
+user_id: pawan

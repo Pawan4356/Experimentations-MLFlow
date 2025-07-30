@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOps/Experimentations-MLFlow/mlruns/637867793221252744/f467fda805344e16945b565c0eee4d08/artifacts
+end_time: 1753837595222
+entry_point_name: ''
+experiment_id: '637867793221252744'
+lifecycle_stage: active
+run_id: f467fda805344e16945b565c0eee4d08
+run_name: youthful-whale-476
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753837588923
+status: 4
+tags: []
+user_id: pawan

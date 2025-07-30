@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOps/Experimentations-MLFlow/mlruns/637867793221252744/7386fad4ca024012866c8514bf6c2893/artifacts
+end_time: 1753838478134
+entry_point_name: ''
+experiment_id: '637867793221252744'
+lifecycle_stage: active
+run_id: 7386fad4ca024012866c8514bf6c2893
+run_name: bold-wren-556
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753838471841
+status: 4
+tags: []
+user_id: pawan

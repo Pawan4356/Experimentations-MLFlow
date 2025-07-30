@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOps/Experimentations-MLFlow/mlruns/637867793221252744/f22453e7dd9f4b979095dbac0e75452e/artifacts
+end_time: 1753838725960
+entry_point_name: ''
+experiment_id: '637867793221252744'
+lifecycle_stage: active
+run_id: f22453e7dd9f4b979095dbac0e75452e
+run_name: upset-shark-182
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753838725929
+status: 3
+tags: []
+user_id: pawan

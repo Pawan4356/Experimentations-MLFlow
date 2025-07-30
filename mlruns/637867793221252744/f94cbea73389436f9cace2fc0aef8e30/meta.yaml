@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOps/Experimentations-MLFlow/mlruns/637867793221252744/f94cbea73389436f9cace2fc0aef8e30/artifacts
+end_time: 1753838726044
+entry_point_name: ''
+experiment_id: '637867793221252744'
+lifecycle_stage: active
+run_id: f94cbea73389436f9cace2fc0aef8e30
+run_name: gentle-rat-81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753838726013
+status: 3
+tags: []
+user_id: pawan
