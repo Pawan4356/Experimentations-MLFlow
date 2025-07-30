@@ -51,6 +51,6 @@ with mlflow.start_run():
     mlflow.log_artifact(__file__)
 
     mlflow.set_tags({"Author": "Pawan", "Project": "Wine Classification"})
-    mlflow.sklearn.log_model(rf, name="Random-Forest-Model")
+    mlflow.sklearn.log_model(rf, "Random-Forest-Model")
 
     print("Accuracy: ", accuracy)

@@ -1,5 +1,6 @@
 import yaml
 import mlflow
+import pandas as pd
 import mlflow.sklearn
 import seaborn as sns
 import matplotlib.pyplot as plt
@@ -7,6 +8,7 @@ from sklearn.datasets import load_wine
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, confusion_matrix
+
 
 mlflow.set_tracking_uri("http://127.0.0.1:5000")
 with open("params.yaml", "r") as f:
@@ -50,7 +52,10 @@ with mlflow.start_run():
     mlflow.log_artifact("Confusion-matrix.png")
     mlflow.log_artifact(__file__)
 
+    input_example = pd.DataFrame([X_test[0]], columns=wine.feature_names)
     mlflow.set_tags({"Author": "Pawan", "Project": "Wine Classification"})
-    mlflow.sklearn.log_model(rf, name="Random-Forest-Model")
+    mlflow.sklearn.log_model(rf, "Random-Forest-Model",
+    input_example=input_example,
+    signature=mlflow.models.infer_signature(X_test, y_pred))
 
     print("Accuracy: ", accuracy)

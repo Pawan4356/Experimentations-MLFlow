@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/957127062445988614/2bfa4cd8b8b3490eaec9652f74958955/artifacts
+end_time: 1753807607302
+entry_point_name: ''
+experiment_id: '957127062445988614'
+lifecycle_stage: active
+run_id: 2bfa4cd8b8b3490eaec9652f74958955
+run_name: thundering-finch-349
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753807602443
+status: 3
+tags: []
+user_id: pawan

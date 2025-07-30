@@ -1,5 +1,7 @@
 import yaml
 import mlflow
+import joblib
+import dagshub
 import mlflow.sklearn
 import seaborn as sns
 import matplotlib.pyplot as plt
@@ -8,7 +10,9 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, confusion_matrix
 
-mlflow.set_tracking_uri("http://127.0.0.1:5000")
+dagshub.init(repo_owner='pawankumar27112005', repo_name='Experimentations-MLFlow', mlflow=True)
+mlflow.set_tracking_uri("https://dagshub.com/pawankumar27112005/Experimentations-MLFlow.mlflow")
+
 with open("params.yaml", "r") as f:
     params = yaml.safe_load(f)
 
@@ -24,6 +28,7 @@ y = wine.target
 
 X_train, X_test, y_train, y_test = train_test_split(x, y, test_size=test_size, random_state=random_state)
 
+mlflow.autolog()
 mlflow.set_experiment('banana-pudding')
 
 with mlflow.start_run():
@@ -32,11 +37,11 @@ with mlflow.start_run():
     y_pred = rf.predict(X_test)
     accuracy = accuracy_score(y_test, y_pred)
 
-    mlflow.log_metric('accuracy', accuracy)
-    mlflow.log_param('max_depth', max_depth)
-    mlflow.log_param('n_estimators', n_estimators)
-    mlflow.log_param('test_size', test_size)
-    mlflow.log_param('random_state', random_state)
+    # mlflow.log_metric('accuracy', accuracy)
+    # mlflow.log_param('max_depth', max_depth)
+    # mlflow.log_param('n_estimators', n_estimators)
+    # mlflow.log_param('test_size', test_size)
+    # mlflow.log_param('random_state', random_state)
 
     cm = confusion_matrix(y_test, y_pred)
     plt.figure(figsize=(6, 6))
@@ -47,10 +52,12 @@ with mlflow.start_run():
 
     plt.savefig("Confusion-matrix.png")
 
-    mlflow.log_artifact("Confusion-matrix.png")
+    # mlflow.log_artifact("Confusion-matrix.png")
     mlflow.log_artifact(__file__)
 
     mlflow.set_tags({"Author": "Pawan", "Project": "Wine Classification"})
-    mlflow.sklearn.log_model(rf, name="Random-Forest-Model")
+    # joblib.dump(rf, "random_forest_model.pkl")
+    # mlflow.log_artifact("random_forest_model.pkl")
+
 
     print("Accuracy: ", accuracy)

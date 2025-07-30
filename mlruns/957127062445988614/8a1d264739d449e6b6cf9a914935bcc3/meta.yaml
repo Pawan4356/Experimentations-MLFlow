@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/957127062445988614/8a1d264739d449e6b6cf9a914935bcc3/artifacts
+end_time: 1753807387121
+entry_point_name: ''
+experiment_id: '957127062445988614'
+lifecycle_stage: active
+run_id: 8a1d264739d449e6b6cf9a914935bcc3
+run_name: rogue-shrike-420
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753807378515
+status: 3
+tags: []
+user_id: pawan

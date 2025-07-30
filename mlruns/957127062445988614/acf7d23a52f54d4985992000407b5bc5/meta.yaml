@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/957127062445988614/acf7d23a52f54d4985992000407b5bc5/artifacts
+end_time: 1753807787586
+entry_point_name: ''
+experiment_id: '957127062445988614'
+lifecycle_stage: active
+run_id: acf7d23a52f54d4985992000407b5bc5
+run_name: rebellious-eel-716
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753807782780
+status: 3
+tags: []
+user_id: pawan

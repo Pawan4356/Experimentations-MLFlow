@@ -1,5 +1,5 @@
 random_forest:
-  max_depth: 5
-  n_estimators: 8
+  max_depth: 10
+  n_estimators: 7
   test_size: 0.10
   random_state: 42

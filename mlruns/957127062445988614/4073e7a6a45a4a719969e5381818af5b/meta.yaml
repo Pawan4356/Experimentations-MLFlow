@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/957127062445988614/4073e7a6a45a4a719969e5381818af5b/artifacts
+end_time: 1753807947763
+entry_point_name: ''
+experiment_id: '957127062445988614'
+lifecycle_stage: active
+run_id: 4073e7a6a45a4a719969e5381818af5b
+run_name: victorious-tern-941
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753807943577
+status: 3
+tags: []
+user_id: pawan
